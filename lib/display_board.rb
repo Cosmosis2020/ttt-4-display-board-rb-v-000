@@ -2,12 +2,12 @@
 # out the current state.
 #board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 
-def display_board(, 2, 3, 4, 5, 6, 7, 8, 9)
-  puts " #{1} | #{2} | #{3} "
+def display_board(, , , , , , , , )
+  puts " #{} | #{} | #{} "
   puts "-----------"
-  puts " #{4} | #{5} | #{6} "
+  puts " #{} | #{} | #{} "
   puts "-----------"
-  puts " #{7} | #{8} | #{9} "
+  puts " #{} | #{} | #{} "
 end
 
 display_board("X", "O", "O", "X", "O", "X", "O", "X", "O")
