@@ -7,7 +7,7 @@ def display_board(board)
   "-----------"+/n+
   " #{board[3]} | #{board[4]} | #{board[5]} "+/n+
   "-----------"+/n+
-  " #{board[6]} | #{board[7]} | #{board[8]} "+/n+"
+  " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
 #display_board(board)
